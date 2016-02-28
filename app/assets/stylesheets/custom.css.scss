@@ -62,11 +62,12 @@
 }
 .jumbotron {
   text-align: center;
-  background-image: asset-url('jumbotron3.jpeg');
+  background-image: asset-url('jumbotron.png');
   background-size: cover;
   color: #fff;
   font-family: 'Helvetica Neue' !important;
   font-stretch: expanded;
+  height: 200px;
   padding-top: 25px;
   padding-bottom: 25px;
   margin-left: 15px;
