@@ -1,3 +1,6 @@
+.container{
+  width: 100%;
+}
 .user-name {
   padding: 0 !important ;
   padding-left: 5px;
@@ -60,18 +63,19 @@
     padding-left: 15px;
   }
 }
+
 .jumbotron {
   text-align: center;
   background-image: asset-url('jumbotron.png');
-  background-size: cover;
+  width: 100%;
   color: #fff;
   font-family: 'Helvetica Neue' !important;
   font-stretch: expanded;
-  height: 200px;
+  height: 300px;
   padding-top: 25px;
   padding-bottom: 25px;
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-left: 1px;
+  margin-right: 1px;
   text-shadow: -1px 0 #555, 0 1px #555, 1px 0 #555, 0 -1px #555;
   /*
   h2 {
